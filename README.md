@@ -7,7 +7,7 @@ Erstellen Sie eine Struktur, eie einen einfachen Rechner abbildet.
 Dieser soll 2 Zahlen 
 
 - addieren
-- subtrhieren
+- subtrahieren
 - multiplizieren
 - und dividieren 
 
